@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_reading_preferences">خطأ في قراءة  الإعدادات!</string>
+    <string name="name_can_not_be_empty">لا يمكن أن يكون الاسم فارغًا</string>
+    <string name="delete_task">تم حذف المهمة</string>
+    <string name="undo">الغاء</string>
+    <string name="add_task">تمت إضافة المهمة</string>
+    <string name="update_task">تم تحديث المهمة</string>
+    <string name="created">"تم إنشاؤها : "</string>
+    <string name="task_name">اسم المهمة</string>
+    <string name="important_task">مهمة هامة</string>
+    <string name="save">حفظ</string>
+    <string name="create">إنشاء</string>
+    <string name="importance">أهمية</string>
+    <string name="search">بحث</string>
+    <string name="sort">فرز</string>
+    <string name="sort_by_name">الترتيب حسب الاسم</string>
+    <string name="sort_by_date_created">فرز حسب تاريخ الإنشاء</string>
+    <string name="delete_all_completed">حذف كل المهام المكتملة</string>
+    <string name="hide_completed">إخفاء المهام المكتملة</string>
+    <string name="task_one">التصحيح Log4j علة في أسرع وقت ممكن!</string>
+    <string name="task_two">التحديث إلى نظام التشغيل windows 11!</string>
+    <string name="task_three">ساعد أبي!</string>
+</resources>

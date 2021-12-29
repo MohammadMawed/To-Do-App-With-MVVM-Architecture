@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_reading_preferences">Fehler beim Lesen der Einstellungen!</string>
+    <string name="name_can_not_be_empty">Name darf nicht leer sein</string>
+    <string name="delete_task">Aufgabe gelöscht</string>
+    <string name="undo">Rückgängig machen</string>
+    <string name="add_task">Aufgabe hinzugefügt</string>
+    <string name="update_task">Aufgabe aktualisiert</string>
+    <string name="created">Erstellt:</string>
+    <string name="task_name">Aufgabennname</string>
+    <string name="important_task">Wichtige Aufgabe</string>
+    <string name="save">Speichern</string>
+    <string name="create">Erstellen</string>
+    <string name="importance">Wichtigkeit</string>
+    <string name="search">Suche</string>
+    <string name="sort_by_name">Nach Name sortieren</string>
+    <string name="sort">Sortieren</string>
+    <string name="sort_by_date_created">Nach Erstellungsdatum sortieren</string>
+    <string name="hide_completed">Ausblenden abgeschlossen</string>
+    <string name="delete_all_completed">Alle abgeschlossenen löschen</string>
+    <string name="task_one">Log4j-Fehler so schnell wie möglich beheben!</string>
+    <string name="task_two">Update auf Windows 11!</string>
+    <string name="task_three">Hilf Vater!</string>
+</resources>
