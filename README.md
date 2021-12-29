@@ -3,7 +3,7 @@ To Do Android App with MVVM Architecture and Kotlin Coroutines and Room Database
 
 ##################################################################################
 
-![Screenshot_1640774777](https://user-images.githubusercontent.com/68829790/147654403-35c99da9-8768-4d57-b6e8-4eb54bf49a06.png)
+<img src = "https://user-images.githubusercontent.com/68829790/147654403-35c99da9-8768-4d57-b6e8-4eb54bf49a06.png" width = "300">
 
 ###################################################################################
 
